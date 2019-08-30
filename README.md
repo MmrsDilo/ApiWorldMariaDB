@@ -22,5 +22,5 @@ http://localhost:8080/
 Change default port value in application.properties
 
 ## Testing
-* [http://localhost:8080/v1] (http://localhost:8080/v1)
+* http://localhost:8080/v1
 * http://localhost:8080/v1/ListCountries
